@@ -1,82 +1,131 @@
-## Hi there 👋
-<!-- Banner / Typing Animation -->
+<!-- 🌌 Animated Gradient Background Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Sak+👋;IT+Student+💻;Future+Web+Developer+🚀;Learning+Laravel+%26+Data+Analysis" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Sak%20KH&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20(Laravel)%20%7C%20UI/UX%20Designer%20%7C%20Future%20Data%20Analyst&descAlignY=70" />
+</p>
+
+<!-- ✨ Glass Hero Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Portfolio+🌐;Building+Modern+Web+Experiences+🚀;Laravel+%2B+Angular+Developer+💻;UI%2FUX+Lover+🎨" />
+
+<br><br>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/🚀_View_Portfolio-00f7ff?style=for-the-badge&logoColor=black"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/💬_Hire_Me-00f7ff?style=for-the-badge&logoColor=black"/>
+</a>
+<a href="https://t.me/your-telegram">
+  <img src="https://img.shields.io/badge/📲_Telegram-00f7ff?style=for-the-badge&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🧊 Glass About Section
+
+<div align="center">
+
+💎 Passionate IT Student building real-world web apps  
+⚡ Backend Specialist: **Laravel / PHP / MySQL / OOP**  
+🎨 Frontend: **HTML / CSS / JS / Tailwind / Angular**  
+🚀 Dream: Work in a modern tech company & build scalable systems  
+
+</div>
+
+---
+
+# ⚙️ Tech Stack (Glass Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,angular,tailwind,figma&theme=dark" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
-🎓 IT Student from Cambodia  
-💻 Passionate about Web Development & Data Analysis  
-🚀 Goal: Become a Professional Developer & work in Tech Company  
+# 📊 Skill Dashboard (SaaS Style)
+
+<div align="center">
+
+### 💻 Backend
+Laravel ██████████████████░░░░░ 70%
+PHP ██████████████████░░░░░ 70%
+MySQL ██████████████████░░░░░ 70%
+OOP ██████████████████░░░░░ 70%
+phpMyAdmin ██████████████████░░░░░ 70%
+
+### 🎨 Frontend
+HTML/CSS/JS ██████████████████░░░░░ 70%
+Tailwind CSS ██████████████████░░░░░ 70%
+Angular ███████████████░░░░░░░░ 60%
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 UI/UX
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# 📊 GitHub Stats
+# 📊 Live Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 
 ---
 
-# 🔥 Top Languages
+# 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements (Premium UI)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Work (Portfolio Section)
 
-- 🛍️ E-commerce Website (Fashion Shop)
-- 📊 Admin Dashboard System
-- 📱 Flutter Mobile App (Beginner)
+<div align="center">
+
+| Project | Description | Tech |
+|--------|------------|------|
+| 🛍️ Fashion E-commerce | Full system with admin dashboard | Laravel + MySQL |
+| 📊 Admin Dashboard | Data analytics & reports | PHP + Charts |
+| 📱 Mobile App | Beginner Flutter app | Flutter |
+
+</div>
 
 ---
 
-# 🤝 Connect with Me
+# 🌐 Contact & CTA (Glass Buttons)
 
 <p align="center">
-  <a href="https://t.me/your-telegram">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_Hire_Me_Now-00f7ff?style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/your-telegram">
+    <img src="https://img.shields.io/badge/💬_Let's_Talk-00f7ff?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
-💡 I love coding, building websites, and learning new technologies every day 🚀
+# 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=00f7ff&style=flat"/>
+</p>
+
+---
+
+<!-- 🌊 Premium Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
