@@ -129,11 +129,7 @@ class Developer {
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrsakk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F7FF&icon_color=00F7FF&text_color=a0d8ef&ring_color=302b63" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsakk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F7FF&text_color=a0d8ef" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mrsakk&theme=tokyonight&hide_border=true&background=0f0c29&stroke=302b63&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=a0d8ef&dates=a0d8ef&currStreakNum=ffffff&sideNums=ffffff" />
