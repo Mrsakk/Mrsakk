@@ -57,27 +57,7 @@ class Developer {
 
 ---
 
-## 📊 Skill Levels
 
-### 💻 Backend Development
-
-| Skill | Level | Progress |
-|---|---|---|
-| Laravel | Intermediate | `████████████████████░░░░` 70% |
-| PHP | Intermediate | `████████████████████░░░░` 70% |
-| MySQL | Intermediate | `████████████████████░░░░` 70% |
-| OOP | Intermediate | `████████████████████░░░░` 70% |
-| phpMyAdmin | Intermediate | `████████████████████░░░░` 70% |
-
-### 🎨 Frontend Development
-
-| Skill | Level | Progress |
-|---|---|---|
-| HTML / CSS / JS | Intermediate | `████████████████████░░░░` 70% |
-| Tailwind CSS | Intermediate | `████████████████████░░░░` 70% |
-| Angular | Beginner–Mid | `█████████████████░░░░░░░` 60% |
-
----
 
 ## 🚀 Featured Projects
 
